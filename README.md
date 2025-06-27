@@ -1,4 +1,4 @@
-[![.NET](https://github.com/ArunKumar-SF3979/blazor-showcase-bpmn-editor/actions/workflows/dotnet.yml/badge.svg)](https://github.com/ArunKumar-SF3979/blazor-showcase-bpmn-editor/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/syncfusion/blazor-showcase-bpmn-editor/actions/workflows/dotnet.yml/badge.svg)](https://github.com/syncfusion/blazor-showcase-bpmn-editor/actions/workflows/dotnet.yml)
 
 # blazor-showcase-bpmn-editor
 The BPMN shapes help us to represent internal business processes in a graphical notation. They enable you to communicate procedures in a standard manner. These shapes are popular and intuitive graphics that can be easily understood by all business stakeholders, including business users, business analysts, software developers, and data architects.
